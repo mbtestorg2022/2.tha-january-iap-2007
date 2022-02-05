@@ -4,14 +4,178 @@ title: Related Resources
 uid: 66f10736-c178-b883-af93-97a73f6d1c09
 ---
 
-| SES # | TOPICS | HANDOUTS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introductions {{< br >}}{{< br >}} Proposal Specific Writing Issues {{< br >}}{{< br >}} Introduction to Information Sources {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Thesis Intent Form ([PDF]({{< baseurl >}}/resources/intent)) {{< br >}}{{< br >}} Thesis Proposal Coversheet ([PDF]({{< baseurl >}}/resources/coversheet)) {{< br >}}{{< br >}} Thesis Proposal and Thesis Structure Notes ([PDF]({{< baseurl >}}/resources/thesis_structure)) {{< br >}}{{< br >}} Thesis Proposal Template ([PDF]({{< baseurl >}}/resources/template)) {{< br >}}{{< br >}} "Fill in the Blank" Thesis Proposal Outline Exercise ([PDF]({{< baseurl >}}/resources/blank_exercise)) {{< br >}}{{< br >}} Research Assignment ([PDF]({{< baseurl >}}/resources/research)) (Presented courtesy of Tracy Gabridge. Used with permission.) {{< br >}}{{< br >}} Information Types Worksheet ([PDF]({{< baseurl >}}/resources/info_types1)) (Presented courtesy of Tracy Gabridge. Used with permission.) {{< br >}}{{< br >}} Information Types Handout ([PDF]({{< baseurl >}}/resources/info_types2)) (Presented courtesy of Tracy Gabridge. Used with permission.) {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Progress Reports {{< br >}}{{< br >}} Follow up on Information Sources {{< br >}}{{< br >}} Information Sources "Hands-on" Exercise {{< br >}}{{< br >}} Graphics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Marked Up Proposal Introduction ([PDF]({{< baseurl >}}/resources/marked_intro)) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Proposal Workshop {{< br >}}{{< br >}} Graphics Show and Tell {{< br >}}{{< br >}} About Oral Presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework and Course Trajectory ([PDF]({{< baseurl >}}/resources/timeline3)) {{< br >}}{{< br >}} First Draft Assessment Form ([PDF]({{< baseurl >}}/resources/draft1_assessmen)) {{< br >}}{{< br >}} Oral Presentation Notes ([PDF]({{< baseurl >}}/resources/orals)) {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Shorter, Less Formal Presentations {{< br >}}{{< br >}} Review of Presentations {{< br >}}{{< br >}} Possible Additional Topic(s) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework and Course Trajectory ([PDF]({{< baseurl >}}/resources/timeline4)) {{< br >}}{{< br >}} Informal Oral Presentation Assessment Form ([PDF]({{< baseurl >}}/resources/oral1_eval)) {{< br >}}{{< br >}}  |
-| 5 | Workshop II |  {{< br >}}{{< br >}} Homework and Course Trajectory ([PDF]({{< baseurl >}}/resources/timeline5)) {{< br >}}{{< br >}} Reviewer Checklist Form ([PDF]({{< baseurl >}}/resources/reviewer_check)) {{< br >}}{{< br >}}  |
-| 6-7 |  {{< br >}}{{< br >}} Longer, More Formal Presentations {{< br >}}{{< br >}} Subject Evaluation Forms {{< br >}}{{< br >}}  | Formal Oral Presentation Assessment form ([PDF]({{< baseurl >}}/resources/oral2_eval)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions
+
+Proposal Specific Writing Issues
+
+Introduction to Information Sources
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thesis Intent Form ([PDF]({{< baseurl >}}/resources/intent))
+
+Thesis Proposal Coversheet ([PDF]({{< baseurl >}}/resources/coversheet))
+
+Thesis Proposal and Thesis Structure Notes ([PDF]({{< baseurl >}}/resources/thesis_structure))
+
+Thesis Proposal Template ([PDF]({{< baseurl >}}/resources/template))
+
+"Fill in the Blank" Thesis Proposal Outline Exercise ([PDF]({{< baseurl >}}/resources/blank_exercise))
+
+Research Assignment ([PDF]({{< baseurl >}}/resources/research)) (Presented courtesy of Tracy Gabridge. Used with permission.)
+
+Information Types Worksheet ([PDF]({{< baseurl >}}/resources/info_types1)) (Presented courtesy of Tracy Gabridge. Used with permission.)
+
+Information Types Handout ([PDF]({{< baseurl >}}/resources/info_types2)) (Presented courtesy of Tracy Gabridge. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Progress Reports
+
+Follow up on Information Sources
+
+Information Sources "Hands-on" Exercise
+
+Graphics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Marked Up Proposal Introduction ([PDF]({{< baseurl >}}/resources/marked_intro))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Proposal Workshop
+
+Graphics Show and Tell
+
+About Oral Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework and Course Trajectory ([PDF]({{< baseurl >}}/resources/timeline3))
+
+First Draft Assessment Form ([PDF]({{< baseurl >}}/resources/draft1_assessmen))
+
+Oral Presentation Notes ([PDF]({{< baseurl >}}/resources/orals))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shorter, Less Formal Presentations
+
+Review of Presentations
+
+Possible Additional Topic(s)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework and Course Trajectory ([PDF]({{< baseurl >}}/resources/timeline4))
+
+Informal Oral Presentation Assessment Form ([PDF]({{< baseurl >}}/resources/oral1_eval))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework and Course Trajectory ([PDF]({{< baseurl >}}/resources/timeline5))
+
+Reviewer Checklist Form ([PDF]({{< baseurl >}}/resources/reviewer_check))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Longer, More Formal Presentations
+
+Subject Evaluation Forms
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Formal Oral Presentation Assessment form ([PDF]({{< baseurl >}}/resources/oral2_eval))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Other Assorted Handouts
 -----------------------

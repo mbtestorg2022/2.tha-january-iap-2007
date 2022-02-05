@@ -42,11 +42,112 @@ This class meets six times as shown below. Deliverables culminate in a written t
 
 2.ThA Deliverables Timeline ([PDF]({{< baseurl >}}/resources/timeline))
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introductions {{< br >}}{{< br >}} Proposal Specific Writing Issues {{< br >}}{{< br >}} Introduction to Information Sources {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Progress Reports {{< br >}}{{< br >}} Follow up on Information Sources {{< br >}}{{< br >}} Information Sources "Hands-on" Exercise {{< br >}}{{< br >}} Graphics {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Proposal Workshop {{< br >}}{{< br >}} Graphics Show and Tell {{< br >}}{{< br >}} About Oral Presentations {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Shorter, Less Formal Presentations {{< br >}}{{< br >}} Review of Presentations {{< br >}}{{< br >}} Possible Additional Topic(s) {{< br >}}{{< br >}}  |
-| 5 | Workshop II |
-| 6-7 |  {{< br >}}{{< br >}} Longer, More Formal Presentations {{< br >}}{{< br >}} Subject Evaluation Forms {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions
+
+Proposal Specific Writing Issues
+
+Introduction to Information Sources
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Progress Reports
+
+Follow up on Information Sources
+
+Information Sources "Hands-on" Exercise
+
+Graphics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Proposal Workshop
+
+Graphics Show and Tell
+
+About Oral Presentations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shorter, Less Formal Presentations
+
+Review of Presentations
+
+Possible Additional Topic(s)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Longer, More Formal Presentations
+
+Subject Evaluation Forms
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
